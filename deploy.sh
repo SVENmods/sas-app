@@ -13,6 +13,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:svenmods/sas-app.git main:gh-pages
+git push -f git@github.com:svenmods/sas-app.github.io.git main
 
 cd -
